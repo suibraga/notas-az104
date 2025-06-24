@@ -5,6 +5,33 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 
+ 
+## Sobre o exame: 
+### Tópicos Adicionados
+Azure Container Apps: Introduzido para substituir o Azure Kubernetes Service (AKS), refletindo a ênfase crescente em soluções PaaS.\
+Bicep: Incluído como alternativa moderna aos modelos ARM para automação de infraestrutura como código.\
+Recursos de Armazenamento:\
+Criptografia de contas de armazenamento\
+Snapshots e soft delete para Azure Files\
+Versionamento de blobs\
+Soft Delete para Blobs e Contêineres: Adicionado na atualização de abril de 2025.
+
+### Tópicos Removidos
+Azure Kubernetes Service (AKS): Removido oficialmente em julho de 2023, sendo substituído por Azure Container Apps.\
+Microsoft Entra (Azure AD):\
+Unidades administrativas\
+Configurações de dispositivos e identidade de dispositivos\
+Outros Serviços:\
+Funções personalizadas do Azure\
+Extensões de máquinas virtuais\
+Azure Compute Gallery\
+Serviço de Importação/Exportação\
+Serviços de Rede:\
+Azure Firewall\
+VPN Gateway\
+ExpressRoute\
+Virtual WAN
+
 ## Simulados:
 https://www.whizlabs.com/blog/azure-administrator-az-104-exam-questions/
 
