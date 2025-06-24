@@ -11,6 +11,11 @@ https://www.whizlabs.com/blog/azure-administrator-az-104-exam-questions/
 
 
 ## Youtube: 
+
+John Savill's Technical Training
+https://www.youtube.com/watch?v=V1Hk45XD6Qw&list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs
+
+
 Raphael Andrade da TFTEC super resumão da AZ-104/
 https://www.youtube.com/watch?v=IO2CQwEmYnY/
 
