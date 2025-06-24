@@ -46,6 +46,9 @@ https://www.youtube.com/watch?v=V1Hk45XD6Qw&list=PLlVtbbG169nGlGPWs9xaLKT1KfwqRE
 Raphael Andrade da TFTEC super resumão da AZ-104/
 https://www.youtube.com/watch?v=IO2CQwEmYnY/
 
+AZ-104 - Tudo que você precisa saber para ser aprovado - Mega Revisão Youtube
+https://www.youtube.com/watch?v=IO2CQwEmYnY
+
 ## Materiais
 ### Guia detalhado:
 Um artigo que explica os principais conceitos do exame, estratégias de estudo e recomendações para passar na prova. Veja mais [aqui](https://wellingtonagapto.com.br/guia-para-a-certificacao-az-104-microsoft-azure-administrator/).
